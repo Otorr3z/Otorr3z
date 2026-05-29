@@ -1,19 +1,17 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=LUCAS+TORRES;FULL+STACK+DEVELOPER;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
-</h2>
-
 <div align="center">
-  <img src="https://i.pinimg.com/originals/4f/35/78/4f3578c2e6da50d26f2d99780a1cb5b3.gif" height="200" alt="Baki Hanma" style="border-radius: 12px;"/>
-</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=42&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=LUCAS+TORRES;FULL+STACK+DEVELOPER;S%C3%83O+PAULO+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
+<img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" height="180" alt="Baki"/>
+
+<br/>
 
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║   "The strong eat the weak. That's just how it is."     ║
-║                                    — Baki Hanma         ║
+║                                        — Baki Hanma     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -39,12 +37,15 @@ const lucas = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otorr3z&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Otorr3z&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+
 </div>
 
 ---
@@ -54,47 +55,53 @@ const lucas = {
 ### ⚡ Linguagens
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" title="TypeScript" alt="TypeScript"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" alt="Python"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" title="Java" alt="Java"/>
 </div>
+
+<br/>
 
 ### 🚀 Frameworks & Runtimes
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" title="Angular" alt="Angular"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" title="Spring Boot" alt="Spring Boot"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" alt="Node.js"/>
 </div>
+
+<br/>
 
 ### 🗄️ Banco de Dados & Analytics
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL" alt="MySQL"/>
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" title="Power BI" alt="Power BI"/>
 </div>
+
+<br/>
 
 ### ☁️ Cloud & DevOps
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" title="AWS" alt="AWS"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" alt="Docker"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" alt="Git"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux" alt="Linux"/>
 </div>
 
 ---
@@ -115,9 +122,9 @@ const lucas = {
 ## 🐍 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
 </picture>
 
 ---
