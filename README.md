@@ -1,36 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=42&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=LUCAS+TORRES;FULL+STACK+DEVELOPER;S%C3%83O+PAULO+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=200&section=header&text=Lucas%20Torres&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bmd6eHhsMXByM3QzMXM3b3k2MXF1enYzY2UxbTJqd3R6MnkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvpqIQAAl66EfoTJj8/giphy.gif" height="200" alt="Baki"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/QvpqIQAAl66EfoTJj8/giphy.gif" height="180" alt="Baki"/>
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════╗
-║   "The strong eat the weak. That's just how it is."     ║
-║                                        — Baki Hanma     ║
-╚══════════════════════════════════════════════════════════╝
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=C0392B&center=true&vCenter=true&width=500&lines=S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7;Full+Stack+Developer;Always+Evolving...)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚔️ Sobre mim
+<div align="center">
 
-```javascript
-const lucas = {
-  nome:       "Lucas Torres",
-  username:   "Otorr3z",
-  localidade: "São Paulo, BR 🇧🇷",
-  foco:       ["Full Stack Dev", "Cloud", "APIs REST"],
-  atualmente: "Sempre evoluindo — assim como o Baki 💪",
-  contato:    "Aberto a oportunidades"
-};
-```
+| 👤 Nome | 📍 Localidade | 🎯 Foco | 💼 Status |
+|---------|--------------|---------|----------|
+| Lucas Torres | São Paulo, BR | Full Stack Dev | Aberto a oportunidades |
+
+</div>
 
 ---
 
@@ -38,9 +26,9 @@ const lucas = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
 <br/>
 
@@ -87,7 +75,7 @@ const lucas = {
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" alt="PostgreSQL"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" title="Power BI" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="30" title="Power BI" alt="Power BI"/>
 </div>
 
 <br/>
@@ -119,15 +107,6 @@ const lucas = {
 
 ---
 
-## 🐍 Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg"/>
-</picture>
-
----
 
 ## 📡 Contato
 
@@ -152,7 +131,11 @@ const lucas = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Otorr3z&color=c0392b&style=flat-square&label=VISITAS" alt="Profile views"/>
-  <br/><br/>
-  <sub>⚡ Feito com força — assim como o treino do Baki</sub>
+
+<img src="https://komarev.com/ghpvc/?username=Otorr3z&color=c0392b&style=flat-square&label=VISITAS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=100&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
