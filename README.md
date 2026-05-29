@@ -9,18 +9,9 @@
 </div>
 
 ---
-
-<div align="center">
-
-| 👤 Nome | 📍 Localidade | 🎯 Foco | 💼 Status |
-|---------|--------------|---------|----------|
-| Lucas Torres | São Paulo, BR | Full Stack Dev | Aberto a oportunidades |
-
-</div>
-
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -34,9 +25,7 @@
 
 ---
 
-## 🛠️ Arsenal Técnico
-
-### ⚡ Linguagens
+### Linguagens
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" title="JavaScript" alt="JavaScript"/>
@@ -50,7 +39,7 @@
 
 <br/>
 
-### 🚀 Frameworks & Runtimes
+### Frameworks & Runtimes
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" alt="React"/>
@@ -64,7 +53,7 @@
 
 <br/>
 
-### 🗄️ Banco de Dados & Analytics
+### Banco de Dados & Analytics
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL" alt="MySQL"/>
@@ -76,7 +65,7 @@
 
 <br/>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" title="AWS" alt="AWS"/>
@@ -90,7 +79,7 @@
 
 ---
 
-## 🧬 Stack Completa
+##  Stack Completa
 
 | Camada | Tecnologias |
 |--------|------------|
@@ -103,22 +92,18 @@
 
 ---
 
-## 📡 Contato
+##  Contato
 
 <div align="left">
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/otorr3z_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"/>
-  </a>
-  &nbsp;
-  <a href="mailto:seuemail@gmail.com">
+  <a href="torrzdev00@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="www.linkedin.com/in/lucas-torres-paz-487711264" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
   </a>
 </div>
