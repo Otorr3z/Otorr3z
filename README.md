@@ -1,41 +1,151 @@
-<h2 align="center">Olá👋! Me chamo Lucas Torres</h2>
-
-###
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=C0392B&center=true&vCenter=true&width=600&lines=LUCAS+TORRES;FULL+STACK+DEVELOPER;WELCOME+TO+MY+PROFILE" alt="Typing SVG" />
+</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://i.pinimg.com/originals/4f/35/78/4f3578c2e6da50d26f2d99780a1cb5b3.gif" height="200" alt="Baki Hanma" style="border-radius: 12px;"/>
 </div>
 
-###
+<br/>
 
-<img align="right" height="150" src="data:image/jpeg;base64,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"  />
+<div align="center">
 
-###
+```
+╔══════════════════════════════════════════════════════════╗
+║   "The strong eat the weak. That's just how it is."     ║
+║                                    — Baki Hanma         ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚔️ Sobre mim
+
+```javascript
+const lucas = {
+  nome:       "Lucas Torres",
+  username:   "Otorr3z",
+  localidade: "São Paulo, BR 🇧🇷",
+  foco:       ["Full Stack Dev", "Cloud", "APIs REST"],
+  atualmente: "Sempre evoluindo — assim como o Baki 💪",
+  contato:    "Aberto a oportunidades"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otorr3z&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+</div>
+
+---
+
+## 🛠️ Arsenal Técnico
+
+### ⚡ Linguagens
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
 </div>
 
-###
+### 🚀 Frameworks & Runtimes
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" title="Spring Boot"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
 </div>
 
-###
+### 🗄️ Banco de Dados & Analytics
 
-<br clear="both">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" title="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" alt="Snake animation" />
+### ☁️ Cloud & DevOps
 
-###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" title="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>
+</div>
+
+---
+
+## 🧬 Stack Completa
+
+| Camada | Tecnologias |
+|--------|------------|
+| **Frontend** | React · Angular · TypeScript · JavaScript |
+| **Backend** | Spring Boot · Node.js · Java · Python |
+| **Banco de Dados** | MySQL · PostgreSQL |
+| **Analytics** | Power BI |
+| **Cloud** | AWS · Docker |
+| **Ferramentas** | Git · Linux |
+
+---
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/output/snake.svg" />
+</picture>
+
+---
+
+## 📡 Contato
+
+<div align="left">
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"/>
+  </a>
+  &nbsp;
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Otorr3z&color=c0392b&style=flat-square&label=VISITAS" alt="Profile views"/>
+  <br/><br/>
+  <sub>⚡ Feito com força — assim como o treino do Baki</sub>
+</div>
