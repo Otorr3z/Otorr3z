@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C0392B&height=200&section=header&text=Lucas%20Torres&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd6bmd6eHhsMXByM3QzMXM3b3k2MXF1enYzY2UxbTJqd3R6MnkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QvpqIQAAl66EfoTJj8/giphy.gif" height="200" alt="Baki"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=28&pause=1000&color=C0392B&center=true&vCenter=true&width=500&lines=S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7;Full+Stack+Developer;Always+Evolving...)](https://git.io/typing-svg)
@@ -104,7 +102,6 @@
 | **Ferramentas** | Git · Linux |
 
 ---
-
 
 ## 📡 Contato
 
