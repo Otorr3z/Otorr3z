@@ -26,14 +26,11 @@
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otorr3z&theme=dracula)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otorr3z&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otorr3z&theme=dracula)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Otorr3z&theme=dracula&hide_border=true&area=true" width="100%" alt="activity graph"/>
 
 <br/>
 
-<img src="https://media.giphy.com/media/l2JhpjWPccQtOmZAA/giphy.gif" height="220" alt="Baki Hanma"/>
+<img src="https://raw.githubusercontent.com/Otorr3z/Otorr3z/main/baki.gif" height="220" alt="Baki Hanma"/>
 
 </div>
 
