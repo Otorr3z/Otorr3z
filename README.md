@@ -26,13 +26,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Otorr3z&theme=dracula&hide_border=false" height="150" alt="streak stats"/>
+<img src="https://media.giphy.com/media/l2JhpjWPccQtOmZAA/giphy.gif" height="220" alt="Baki Hanma"/>
 
 </div>
 
