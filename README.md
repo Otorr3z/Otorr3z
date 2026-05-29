@@ -26,11 +26,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Otorr3z&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Otorr3z&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Otorr3z&theme=dracula)
 
-<br/><br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Otorr3z&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Otorr3z&theme=dracula)
+
+<br/>
 
 <img src="https://media.giphy.com/media/l2JhpjWPccQtOmZAA/giphy.gif" height="220" alt="Baki Hanma"/>
 
